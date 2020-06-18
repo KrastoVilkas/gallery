@@ -1,0 +1,27 @@
+.glados-div{
+  content: "";
+  background: transpartent url(images/kindpng_2027226) scroll npo-repeat 0 0;
+  background-size: contain;
+}
+
+h1{
+  display: block;
+  position: relative;
+}
+
+s{
+  color: red;
+}
+
+.required::placeholder{ /* Chrome, Firefox, Opera, Safari 10.1+ */
+  color: red;
+  opacity: 1; /* Firefox */
+}
+
+.required:-ms-input-placeholder { /* Internet Explorer 10-11 */
+  color: red;
+}
+
+.required::-ms-input-placeholder { /* Microsoft Edge */
+  color: red;
+}

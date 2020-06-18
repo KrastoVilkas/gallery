@@ -1,0 +1,59 @@
+.navbar-nav > li > a {
+  text-decoration: none;
+  text-shadow: none;
+  color: white;
+}
+
+.navbar{
+  border-radius: 0;
+}
+
+.ml-auto{
+  left: auto !important;
+  right: 0;
+}
+
+.brand-image{
+  position: relative;
+  top: 10px;
+}
+
+.carousel-item {
+  height: 65vh;
+  min-height: 350px;
+  background: no-repeat center center scroll;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.navbar-dark{
+  margin-bottom: 0;
+}
+
+.carousel-indicators .active{
+  height: 3px;
+  width: 30px;
+}
+
+.carousel-item img{
+  position: relative;
+  top: -75px;
+}
+
+.wait-time{
+  color: red;
+}
+.profile-title{
+  padding:3%;
+}
+
+.profile-table{
+  width:90%;
+  padding:3%;
+  margin-left:1%;
+}
+.profile-message{
+  margin-left:1%;
+}

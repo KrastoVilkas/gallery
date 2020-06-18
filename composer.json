@@ -1,0 +1,6 @@
+{
+    "name": "krastovilkas/gallery",
+    "require": {
+        "monolog/monolog": "1.0.*"
+    }
+}
